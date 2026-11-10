@@ -7,7 +7,11 @@
 
 body {
   background-color: #FFFFE0; /* Warna kuning cerah */
-  font-family: Arial, sans-serif; /* Jenis huruf yang bersih mudah dibaca */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  overflow: hidden;
   color: #191970; /* Warna teks utama (biru gelap) */
 }
 
