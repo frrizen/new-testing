@@ -1,1 +1,5 @@
-
+body {
+  background-color: #FFFFE0; /* Warna kuning cerah */
+  font-family: Arial, sans-serif; /* Jenis huruf yang bersih mudah dibaca */
+  color: #191970; /* Warna teks utama (biru gelap) */
+}
